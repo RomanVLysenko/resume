@@ -71,6 +71,10 @@ body {
     display: block;
     text-align: center;
     }
+.info .info-text {
+    margin-left: 0px;
+    }
+
 }
 
 .info-text {
